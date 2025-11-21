@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="banner-photo" src="[https://media.licdn.com/dms/image/v2/D4D16AQGtD_q5jxmyKw/profile-displaybackgroundimage-shrink_350_1400/B4DZndc4ioKQAc-/0/1760356963030?e=1762992000&v=beta&t=nR8d34cbQYq9VFQkIXgLEGYKeoDXXKufxAjwsaCyqFA](https://media.licdn.com/dms/image/v2/D4D16AQGtD_q5jxmyKw/profile-displaybackgroundimage-shrink_350_1400/B4DZndc4ioKQAc-/0/1760356963030?e=1765411200&v=beta&t=51NyA_lz1uPfsxfei9uYFwEnSY_rAWTW77NbKTdTOaA)" />
+<img width="1584" height="396" alt="banner-photo" src="https://media.licdn.com/dms/image/v2/D4D16AQGtD_q5jxmyKw/profile-displaybackgroundimage-shrink_350_1400/B4DZndc4ioKQAc-/0/1760356963030?e=1765411200&v=beta&t=51NyA_lz1uPfsxfei9uYFwEnSY_rAWTW77NbKTdTOaA" />
 
 <h1 align="center">
   Hey, I'm Emirhan Bayatlı 
