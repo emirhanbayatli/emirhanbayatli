@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="banner-photo" src="./assets/banner.webp" />
+<img width="1584" height="396" alt="banner-photo" src="./assets/banner.png" />
 
 <h1 align="center">
   Hey, I'm Emirhan Bayatlı 
